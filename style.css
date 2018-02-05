@@ -1,0 +1,289 @@
+/* DON'T DELETE THIS */
+
+html {
+  box-sizing: border-box;
+}
+
+*,*:before,*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 50%;
+}
+
+/* Clear Float */
+
+.cf:before,.cf:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */
+}
+
+.cf:after {
+  clear: both;
+}
+
+.cf {
+  *zoom: 1;
+}
+
+
+
+/* ADD YOUR CSS STYLES BELOW */
+
+body {
+
+}
+
+img {
+  display: auto;
+  visibility: hidden;
+}
+
+.container {
+  width: 1280px;
+  Height: 2300px;
+  margin: auto;
+}
+
+.box {
+  background-color:;
+  width: 200px;
+  height: 200px;
+  margin: 50px 0px 50px 50px;
+  position: relative;
+  float: left;
+  background-image: url("https://image.ibb.co/dETezG/eyes_01.png");
+
+}
+
+.box:hover .photo {
+  display: block;
+
+}
+
+.box:hover .description {
+  display: block;
+  font-size: 12px;
+  padding: 3px;
+  line-height: 1.5;
+}
+
+.box .photo {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  position: absolute;
+  left: -0px;
+  top: -0px;
+  margin-top: 0px;
+  display: none;
+}
+
+.box .description {
+  width: 200px;
+  height: 200px;
+  background-color: none;
+  position: absolute;
+  left: -0px;
+  top: 210px;
+  margin-top: 0px;
+  display: none;
+}
+
+
+/* DON'T DELETE THIS */
+
+html {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  -webkit-box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+
+/* Clear Float */
+
+.cf:before,
+.cf:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */
+}
+
+.cf:after {
+  clear: both;
+}
+
+.cf {
+  *zoom: 1;
+}
+
+
+
+
+#box1 {
+    background-image: url("https://image.ibb.co/jcYq6w/box1_01.png");
+
+}
+
+#box2 {
+    background-image: url("https://image.ibb.co/gdtF6w/box2_01.png");
+
+}
+
+#box3 {
+    background-image: url("https://image.ibb.co/kd78Rw/box3_01.png");
+
+}
+
+#box4 {
+    background-image: url("https://image.ibb.co/jVerDb/box4_01.png");
+
+}
+
+#box5 {
+    background-image: url("https://image.ibb.co/duDweG/box5_01.png");
+
+}
+
+#box6 {
+    background-image: url("https://image.ibb.co/kKbMDb/box6_01.png");
+
+}
+
+#box7 {
+    background-image: url("https://image.ibb.co/fWGXKG/box7_01.png");
+
+}
+
+#box8 {
+    background-image: url("https://image.ibb.co/b0YbDb/box8_01.png");
+
+}
+
+#box9 {
+    background-image: url("https://image.ibb.co/dPpuzG/box9_01.png");
+
+}
+
+#box10 {
+    background-image: url("https://image.ibb.co/hWYJtb/box10_01.png");
+
+}
+
+#box11 {
+    background-image: url("https://image.ibb.co/k4Cs3b/box11_01.png");
+
+}
+
+#box12 {
+    background-image: url("https://image.ibb.co/fVDUYb/box12_01.png");
+
+}
+
+#box13 {
+    background-image: url("https://image.ibb.co/jt1cKG/box13_01.png");
+
+}
+
+#box14 {
+    background-image: url("https://image.ibb.co/gUVyRw/box14_01.png");
+
+}
+
+#box15 {
+    background-image: url("https://image.ibb.co/bvhTRw/box15_01.png");
+
+}
+
+#box16 {
+    background-image: url("https://image.ibb.co/eL2Otb/box16_01.png");
+
+}
+
+#box17 {
+    background-image: url("https://image.ibb.co/ggzKYb/box17_01.png");
+
+}
+
+#box18 {
+    background-image: url("https://image.ibb.co/kBkyRw/box18_01.png");
+
+}
+
+#box19 {
+    background-image: url("https://image.ibb.co/nz5RDb/box19_01.png");
+
+}
+
+#box20 {
+    background-image: url("https://image.ibb.co/b3KBDb/box20_01.png");
+
+}
+
+#box21 {
+    background-image: url("https://image.ibb.co/cF07mw/box21_01.png");
+
+}
+
+#box22 {
+    background-image: url("https://image.ibb.co/d0mmeG/box22_01.png");
+
+}
+
+#box23 {
+    background-image: url("https://image.ibb.co/imjdtb/box23_01.png");
+
+}
+
+#box24 {
+    background-image: url("https://image.ibb.co/gwFezG/box24_01.png");
+
+}
+
+#box25 {
+    background-image: url("https://image.ibb.co/dYVJtb/box25_01.png");
+
+}
+
+#box26 {
+    background-image: url("https://image.ibb.co/cZ1KzG/box26_01.png");
+
+}
+
+#box27 {
+    background-image: url("https://image.ibb.co/hdoDtb/box27_01.png");
+
+}
+
+#box28 {
+    background-image: url("https://image.ibb.co/hUHdRw/box28_01.png");
+
+}
+
+#box29 {
+    background-image: url("https://image.ibb.co/cCXTRw/box29_01.png");
+
+}
+
+#box30 {
+    background-image: url("https://image.ibb.co/gijWeG/box30_01.png");
+
+}
